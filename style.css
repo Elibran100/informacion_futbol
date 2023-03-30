@@ -1,0 +1,47 @@
+#h1,#jugadores_importantes{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 100px;
+ text-shadow: 10px 10px 10px rgb(8, 0, 22);   
+}
+body{
+    background: linear-gradient(to bottom,rgb(255, 255, 255),rgb(0, 0, 0));
+}
+#futbol_img{
+    border-radius: 50px;
+    box-shadow: 10px 10px 10px rgb(8, 0, 22);
+}
+#h3,#j1,#j2,#j3,#j4,#j5,#j6,#j7,#j8,#j9{
+    color: rgb(0, 0, 0);
+    font-family: 'Delicious Handrawn', cursive;
+    font-size: 25px;
+}
+#videos,#paginas{
+    font-family: 'Permanent Marker', cursive;
+    font-size: 100px;
+}
+#f2010,#f2014,#f2018,#f2022{
+    font-family: 'Delicious Handrawn', cursive;   
+    color: rgb(0, 0, 0);
+}
+#ochoa,#casillas,#cristiano,#messi,#ronaldo,#tortuga_ninja,#rivaldo,#roberto_carlos,#ronaldinho{
+    width:500px ;
+}
+#ul{
+    list-style: none;
+    font-family: 'Delicious Handrawn', cursive; 
+    color: black;
+    width: 100%;
+    cursor: pointer;
+    position: fixed;
+    margin-top: -10px;
+}
+#li{
+    font-family: 'Delicious Handrawn', cursive; 
+    font-size: 25px;
+    display: inline;
+    padding: 25px;
+    color: black;
+}
+#li:hover{
+    font-size: 40px;
+}
